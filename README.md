@@ -24,5 +24,5 @@ run the server on as an argument, e.g.
 You can connect to the server with basically anything that speaks TCP, e.g.
 netcat: 
 ```
-nc <server> <port>
+nc localhost 8888 
 ```
