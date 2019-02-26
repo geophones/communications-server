@@ -13,7 +13,6 @@ import (
 
 type geophone struct {
 	id          string
-	age         int
 	currentRoom *room
 	conn        net.Conn
 }
