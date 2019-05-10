@@ -1,8 +1,7 @@
 Description
 -----------
-This repository contains code that allows clients to connect to a server
-on a specified port. It's pretty much just code hacked together from a 
-chat server that I wrote a while back to practice learning Go. 
+This repository contains code that allows geophone clients to connect to a server
+on a specified port. 
 
 Installation
 ------------
